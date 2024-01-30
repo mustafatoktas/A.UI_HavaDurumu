@@ -49,7 +49,7 @@ komutunu çalıştırabilirsiniz.
 
 [Hava Durumu.apk](./README%20RESOURCES/Hava%20Durumu.apk)
 
-|  Min SDK | Target SDK |
+|  Min API | Target API |
 | ------------- | ------------- |
 |  26 - Android 8.0 Oreo | 34 - Android 14.0 |
 - **Paket Adı:** `com.mustafatoktas.havadurumu`
